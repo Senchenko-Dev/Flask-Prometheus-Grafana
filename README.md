@@ -1,6 +1,7 @@
 # App Flask-Prometheus-Grafana
 for correct operation on your server must be installed docker-compose</br>
-#Quick start
+
+# Quick start
 
 <h4>Git clone repo</h4>
 
